@@ -7,7 +7,6 @@ This site showcases my journey as a BTech student, aspiring AI engineer, and all
 
 ## 🔥 Live Demo
 
-🔗 [View My Portfolio](https://your-vercel-link.vercel.app)
 
 ---
 
