@@ -65,7 +65,7 @@ export default function Home() {
           <p className="text-lg md:text-xl text-gray-300 leading-loose text-justify md:text-center max-w-4xl mx-auto">
             I&apos;m <span className="font-semibold text-white">Teesta Sarkar</span>, a BTech student at PES University, Bengaluru (Class of 2027),
             majoring in Computer Science with a specialization in Artificial Intelligence & Machine Learning.
-            I live at the crossroads of logic and creativity — constantly building, breaking, and learning. Whether it's 
+            I live at the crossroads of logic and creativity — constantly building, breaking, and learning. Whether it&apos;s
             developing a facial-voice recognition system, exploring ethical hacking, or joining a 2 AM hackathon, 
             I thrive in solving problems that blend math, code, and imagination.
           </p>
