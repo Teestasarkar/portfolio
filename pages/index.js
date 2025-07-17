@@ -44,7 +44,7 @@ export default function Home() {
     ↓ Explore More
   </a>
   <a
-    href="/Teesta_Sarkar_Resume.pdf"
+    href="/TEESTA_SARKAR_RESUME.pdf"
     target="_blank"
     rel="noopener noreferrer"
     className="text-sm sm:text-base px-6 py-2 border border-fuchsia-500 text-fuchsia-300 rounded-full hover:bg-fuchsia-500 hover:text-black transition-all duration-300 text-center"
