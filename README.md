@@ -2,6 +2,7 @@
 
 Welcome to my personal developer portfolio!  
 This site showcases my journey as a BTech student, aspiring AI engineer, and all-around code enthusiast 👩🏻‍💻. I built this to centralize my projects, skills, and experiences — and to tell my story with a spark of personality.
+https://portfolio-teesta.vercel.app/
 
 ---
 
