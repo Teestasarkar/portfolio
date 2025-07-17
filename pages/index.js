@@ -24,7 +24,7 @@ export default function Home() {
 
   {/* Text Content */}
   <h1 className="text-4xl sm:text-6xl md:text-7xl font-extrabold mb-4 text-center bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-fuchsia-500">
-    Hey, I’m Teesta 
+    Hey, I&apos;m Teesta 
   </h1>
 
   <h2 className="text-xl sm:text-2xl md:text-3xl font-medium text-gray-300 text-center mb-4">
@@ -63,7 +63,7 @@ export default function Home() {
             👩🏻‍💻 About Me
           </h2>
           <p className="text-lg md:text-xl text-gray-300 leading-loose text-justify md:text-center max-w-4xl mx-auto">
-            I’m <span className="font-semibold text-white">Teesta Sarkar</span>, a BTech student at PES University, Bengaluru (Class of 2027),
+            I&apos;m <span className="font-semibold text-white">Teesta Sarkar</span>, a BTech student at PES University, Bengaluru (Class of 2027),
             majoring in Computer Science with a specialization in Artificial Intelligence & Machine Learning.
             I live at the crossroads of logic and creativity — constantly building, breaking, and learning. Whether it's 
             developing a facial-voice recognition system, exploring ethical hacking, or joining a 2 AM hackathon, 
@@ -200,8 +200,8 @@ export default function Home() {
       {/* Contact Section */}
       <section id="contact" className="bg-[#0f0f0f] text-white px-6 py-24" data-aos="fade-up">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl font-extrabold mb-6 text-purple-400">📬 Let's Connect</h2>
-          <p className="text-lg text-gray-300 mb-8">Have an opportunity, idea, or just want to say hi? Reach out — I’d love to chat!</p>
+          <h2 className="text-4xl font-extrabold mb-6 text-purple-400">📬 Let&apos;s Connect</h2>
+          <p className="text-lg text-gray-300 mb-8">Have an opportunity, idea, or just want to say hi? Reach out — I&apos;d love to chat!</p>
           <div className="flex flex-col md:flex-row justify-center items-center gap-6">
             <a
               href="https://mail.google.com/mail/?view=cm&fs=1&to=sarkarmou0610@gmail.com"
